@@ -1,20 +1,17 @@
 <p align="center">
   <p align="center">
     <a href="https://justdjango.com/?utm_source=github&utm_medium=logo" target="_blank">
-      <img src="https://assets.justdjango.com/static/branding/logo.svg" alt="JustDjango" height="72">
+      <img src="https://ochuowo.github.io/waterlandent/images/sacco%20manager.png" height="72">
     </a>
   </p>
   <p align="center">
-    The Definitive Django Learning Platform.
+    Bamboo Sacco Manager.
   </p>
 </p>
 
-# Django Simple E-commerce
+# Bamboo Sacco Manager
 
-This is a simple e-commerce website built with Django. It contains the essentials for adding products and capturing payments
-online.
-
-This project is part of a course on [JustDjango](https://learn.justdjango.com)
+A user-friendly table banking local system that strictly operates off-line. Easy installation, affordable rates and a big time-saver for data sharing, generation of reports, membership & board management, loan & interest calculus, just to mention a few benefits.
 
 ---
 
